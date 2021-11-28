@@ -56,12 +56,12 @@
 	- Bell Icon at the bottom
 	- Notification Popup bottom right
 
-![Realtime Notification](https://github.com/varunvns/2021-Expendables/docs/images/gutter-notification.png?raw=true "Realtime Notification")
+![Realtime Notification](https://raw.githubusercontent.com/varunvns/2021-Expendables/main/docs/images/gutter-notification.png "Realtime Notification")
 
 - Notification List
 	- Bell Icon at the bottom
 
-![Realtime Notification](https://github.com/varunvns/2021-Expendables/docs/images/bell-notifications.png?raw=true "Realtime Notification")
+![Realtime Notification](https://raw.githubusercontent.com/varunvns/2021-Expendables/main/docs/images/bell-notifications.png "Realtime Notification")
 
 ## Further Enhancement
 We did a lot of brainstorming during the initial hour and came up with a lot of ideas. We have implemented a number of functionalities but there are others which we are very much interested to add to the module, to make it even more useful.
@@ -72,4 +72,4 @@ Here are few which we can plan to add in near future.
 - Persistent Notifications
 - Live Chat between Authors
 
-![Hackathon Logo](https://github.com/varunvns/2021-Expendables/docs/images/hackathon.png?raw=true "Hackathon Logo")
+![Hackathon Logo](https://raw.githubusercontent.com/varunvns/2021-Expendables/main/docs/images/hackathon.png "Hackathon Logo")
