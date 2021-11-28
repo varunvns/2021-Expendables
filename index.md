@@ -63,6 +63,12 @@
 
 ![Realtime Notification](https://raw.githubusercontent.com/varunvns/2021-Expendables/main/docs/images/bell-notifications.png "Realtime Notification")
 
+## Contributors:
+
+1. Jatin Prajapati: https://twitter.com/jatin_praj
+2. Varun Shringarpure: https://twitter.com/varunvns
+3. Arvind Gehlot: https://twitter.com/arvindgehlot
+
 ## Further Enhancement
 We did a lot of brainstorming during the initial hour and came up with a lot of ideas. We have implemented a number of functionalities but there are others which we are very much interested to add to the module, to make it even more useful.
 Here are few which we can plan to add in near future.
